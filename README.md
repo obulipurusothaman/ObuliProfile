@@ -1,6 +1,6 @@
-                                                                                        Hi there👋, I'm Obulipurusothaman
-                                                                      I'm a recent graduate and aspiring software engineer. Here's a little bit about me
-                                                                Software Engineer 👨‍💻 ||Technical Documenter 📖 || Problem Solving Enthusiast 🧠 || Technical Blogger 🧑‍💻
+Hi there👋, I'm Obulipurusothaman
+I'm a recent graduate and aspiring software engineer. Here's a little bit about me
+Software Engineer 👨‍💻 ||Technical Documenter 📖 || Problem Solving Enthusiast 🧠 || Technical Blogger 🧑‍💻
 
 About Me
 
